@@ -1,0 +1,9 @@
+goal: "Build a sample CLI tool with automated tests"
+
+persistence:
+  progress_path: ".progress.json"
+  notes_path: ".notes.json"
+
+loop:
+  max_iterations: 50
+  auto_adapt: true
