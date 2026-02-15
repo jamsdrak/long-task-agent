@@ -13,8 +13,9 @@ Production-grade scaffold for autonomous AI agents capable of long-horizon task 
 ## Quick Start
 
 ```bash
-git clone https://github.com/your-org/long-task-agent.git
+git clone https://github.com/jamsdrak/long-task-agent.git
 cd long-task-agent
 pip install -e .
 cp .env.example .env
 python scripts/run_agent.py
+
